@@ -1,1 +1,1 @@
-Projeto de bloco Front-End 
+Projeto em Angular
